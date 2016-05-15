@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickSnaps</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pauseButton">Pause Button</string>
+    <string name="playButton">Play Button</string>
+</resources>
